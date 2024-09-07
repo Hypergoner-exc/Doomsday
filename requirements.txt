@@ -1,0 +1,6 @@
+pip2 install requests
+pip2 install ruby
+pip2 install toilet
+pip2 install lolcat
+pip install bs4
+pip2 install keyboard
